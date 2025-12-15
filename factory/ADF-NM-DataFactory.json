@@ -1,0 +1,9 @@
+{
+	"name": "ADF-NM-DataFactory",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f12d4fa8-3578-408c-9c98-cc4d05ecdaa4",
+		"tenantId": "0f74f5e7-70c1-4157-bf2b-5abfa2111f64"
+	}
+}
